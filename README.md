@@ -16,6 +16,7 @@ Projeto desenvolvido com intuido de facilitar a criação de futuros projetos, p
 ## Iniciando a aplicação
 
 - Rode bundle install para instalar as dependências.
+- Rode rake db:create para criar os bancos de dados.
 - Rode rails s para erguer o servidor.
 
 Agora, sua API estará rodando localmente em [http://localhost:3000](http://localhost:3000).
